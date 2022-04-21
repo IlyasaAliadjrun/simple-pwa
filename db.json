@@ -1,0 +1,13 @@
+{
+"products":
+[{"id":1,"name":"Barasingha deer","category":"Violet"},
+{"id":2,"name":"Stork, woolly-necked","category":"Teal"},
+{"id":3,"name":"Long-tailed spotted cat","category":"Maroon"},
+{"id":4,"name":"Macaw, blue and yellow","category":"Teal"},
+{"id":5,"name":"Red-winged hawk (unidentified)","category":"Orange"},
+{"id":6,"name":"Magpie, australian","category":"Khaki"},
+{"id":7,"name":"Small-toothed palm civet","category":"Fuscia"},
+{"id":8,"name":"Kudu, greater","category":"Green"},
+{"id":9,"name":"Dusky gull","category":"Violet"},
+{"id":10,"name":"Shelduck, european","category":"Violet"}]
+}
